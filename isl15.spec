@@ -6,7 +6,7 @@
 Summary:	Old version of the Integer Set Library
 Name:		isl15
 Version:	0.18
-Release:	3
+Release:	4
 License:	MIT
 Group:		System/Libraries
 Url:		git://repo.or.cz/isl.git
